@@ -12,4 +12,5 @@
 
 
 ### ProgF1.main()を実行して表示されるウィンドウの例（ 4720000 生命工太 の場合）
-![ProgF1の実行例](https://user-images.githubusercontent.com/50605381/181143922-6bece9fe-9895-4279-a8d2-503d625f5c71.png)
+![ProgF1の実行例](https://user-images.githubusercontent.com/50605381/181161157-b7d8e119-a5c1-4729-9729-4508fb058d48.png)
+
