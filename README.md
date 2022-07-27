@@ -11,4 +11,5 @@
 （注意）本課題では、テストコードの提供はないので、各自の実行結果を丁寧に確認してください。
 
 ### ProgF1.main()を実行して表示されるウィンドウの例（ 4720000 生命工太 の場合）
-https://github.com/LST-HGU-Master/Java-Assignment-15-1/blob/main/ProgF1%E3%81%AE%E5%AE%9F%E8%A1%8C%E4%BE%8B.png
+![ProgF1の実行例](https://user-images.githubusercontent.com/50605381/181143922-6bece9fe-9895-4279-a8d2-503d625f5c71.png)
+
